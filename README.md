@@ -17,5 +17,5 @@ Hi 👋, I'm Mohidul Islam
 <b>&#128200;Random Stats</b>
 <p float="left">
  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidul32&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  <img height="260em" src="https://leetcard.jacoblin.cool/mohidul32?theme=wtf&font=JetBrains%20Mono&ext=contest" />
+  <img height="260em" src="https://leetcard.jacoblin.cool/Mohidul?theme=wtf&font=JetBrains%20Mono&ext=contest" />
 </p>
