@@ -1,6 +1,6 @@
 Hi 👋, I'm Mohidul Islam
 
-<a href="www.linkedin.com/in/mohidul-islam-6b54a2184">
+<a href="https://www.linkedin.com/in/mohidul-islam-6b54a2184/">
   <img align="left" alt="Mohidul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/mohidul32">
