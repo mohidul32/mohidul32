@@ -10,7 +10,7 @@ Hi 👋, I'm Mohidul Islam
 <br>
 <br>
 </br>- 🌱 Computer Science and Engineering – Islamic University, Bangladesh
-</br>- 👨‍💻 Junior Software Engineer at Divine IT Limited.  
+</br>- 👨‍💻 Software Engineer at Divine IT Limited.  
 </br>
 </br>
 
